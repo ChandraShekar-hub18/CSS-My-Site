@@ -51,7 +51,9 @@ hr{
   width: 30%;
   margin: 100px auto;
 }
-
+.profile{
+  border-radius: 50%;
+}
 .pro{
   text-decoration: underline;
 }
